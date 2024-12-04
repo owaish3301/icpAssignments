@@ -20,6 +20,6 @@ class TriangleArea {
         
         System.out.printf("The area of the triangle is %.1f", area);
         
-        in.close();
+        in.close(); 
     }
 }
